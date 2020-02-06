@@ -1,0 +1,7 @@
+*.log
+*.sqlite3
+
+puppies/migrations/*
+puppies/__pycache__/*
+puppies/tests/__pycache__/*
+puppy_store/__pycache__/
